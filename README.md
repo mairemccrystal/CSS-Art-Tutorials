@@ -17,5 +17,13 @@ Toaster CSS art and animation with toast and lever animation
 Tutorial found here - https://www.youtube.com/watch?v=G0HtHr46Awg&list=PLNCevxogE3fjFTYBst-r1gvlCMsUSzjEU&index=2&ab_channel=CodingArtist
 ![image](https://user-images.githubusercontent.com/10060480/128420467-534384cf-a221-4976-9384-fa3662e149f9.png)
 
+# CSS Rolling Egg Animation 
+Egg CSS art and animation
+Tutorial found here - https://www.youtube.com/watch?v=bj64AkImCBA&ab_channel=CodingArtist
+![image](https://user-images.githubusercontent.com/10060480/152435622-93db0719-70ec-4d4c-aecd-569647a28693.png)
+Added my own animation so the egg will roll when mouseover 
+![ezgif-3-63eb2d9010](https://user-images.githubusercontent.com/10060480/152435708-2004c024-f088-412e-a70f-f926bfaed5ad.gif)
+
+
 
 
